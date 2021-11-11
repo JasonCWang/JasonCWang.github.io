@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Penn State University ** (2019 - 2022)
+* **Penn State University** (2019 - 2022)
   * B.S. in Computer Science
   * Schreyer Scholar
 
