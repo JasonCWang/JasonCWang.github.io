@@ -12,7 +12,7 @@ Hi there! My name is Jason Wang. I am currently an senior at [Penn State Univers
 
 Research
 ======
-My research interests involve artificial intelligence and natural language processing. As a member of the Schreyer Honors College, I am currently pursuing my honors thesis in NLP. I am super fortunate to be advised by [Prof. Rui Zhang](https://ryanzhumich.github.io/) and [Dr. Yanjun Gao](https://serenayj.github.io/). 
+My research interests involve artificial intelligence and natural language processing. As a member of the [Schreyer Honors College](https://www.shc.psu.edu/), I am currently pursuing my honors thesis in NLP. I am super fortunate to be advised by [Prof. Rui Zhang](https://ryanzhumich.github.io/) and [Dr. Yanjun Gao](https://serenayj.github.io/). 
 
 Industry
 ======
