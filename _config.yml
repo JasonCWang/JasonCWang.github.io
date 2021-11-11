@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jason Wang"
+title                    : "Bio"
 title_separator          : "-"
 name                     : &name "Jason Wang"
 description              : &description "personal description"
